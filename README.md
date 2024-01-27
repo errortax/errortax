@@ -4,6 +4,13 @@
 - 🌱 I’m currently learning  CSS and Javascript
 
 [![tasmia's GitHub stats](https://github-readme-stats.vercel.app/api?username=errortax)](https://github.com/errortax/github-readme-stats)
+
+<div id="stats">
+  <h2>Stats</h2>
+  <img src="https://streak-stats.demolab.com?user=errortax&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errortax&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
+  
 <!--
 **errortax/errortax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
