@@ -8,7 +8,10 @@
 <div id="stats">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=errortax&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errortax&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
+<div>
+  <h1>Languages and Tools</h1>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errortax&layout=compact" alt="Top Languages"/>
 </div>
   
 <!--
