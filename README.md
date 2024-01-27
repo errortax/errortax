@@ -6,6 +6,7 @@
 ### Languages and Tools:
 
 [![Tasmia's GitHub stats](https://github-readme-stats.vercel.app/apierrortax=errortax)](https://github.com/errortax/github-readme-stats)
+(https://github-readme-stats.vercel.app/apierrortax&show_icons=true&theme=radical)
 
 <!--
 **errortax/errortax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
