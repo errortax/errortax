@@ -10,7 +10,6 @@
   <img src="https://streak-stats.demolab.com?user=errortax&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
 </div>
 <div>
-  <h1>Languages and Tools</h1>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errortax&layout=compact" alt="Top Languages"/>
 </div>
   
