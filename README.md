@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on FrontEnd Development
 - 🌱 I’m currently learning  CSS and Javascript
-<br>
+
 ### Languages and Tools:
 
 [![Tasmia's GitHub stats](https://github-readme-stats.vercel.app/apierrortax=errortax)](https://github.com/errortax/github-readme-stats)
