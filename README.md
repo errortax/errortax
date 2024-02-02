@@ -28,8 +28,8 @@
 ## :mailbox: Reach me out
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/tasmia-binte-monzoor"><img height="60" src="./images/icons/Linkedin.png"/></a>
-<a href="tasmiamonzoor@gmail.com"><img height="60" src="./images/icons/Gmail.png"/></a>
+<a href="https://www.linkedin.com/in/tasmia-binte-monzoor"><i class="fa-brands fa-linkedin"></i></a>
+<a href="tasmiamonzoor@gmail.com"><i class="fa-regular fa-envelope"></i></a>
 </p>
 <br />
 
