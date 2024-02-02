@@ -28,7 +28,8 @@
 ## :mailbox: Reach me out
 <br />
 <p align="center">
- [![tasmia's GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasmia-binte-monzoor)
+
+<a href="https://www.linkedin.com/in/tasmia-binte-monzoor"><img height="60" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
 </p>
 <br />
 
