@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" height="250px" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 
 - 🔭 I’m currently working on FrontEnd Development
-- 🌱 I’m currently learning  CSS and Javascript
+- 🌱 I’m currently learning TailwindCSS and Javascript
 
 [![tasmia's GitHub stats](https://github-readme-stats.vercel.app/api?username=errortax)](https://github.com/errortax/github-readme-stats)
 <br>
@@ -47,8 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="js" alt="Js" width="40" height="40"/>&nbsp;
+ 
  </p>
 </p>
 
