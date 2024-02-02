@@ -29,7 +29,11 @@
 <br />
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tasmia-binte-monzoor"><img height="60" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
+<a href="https://www.linkedin.com/in/tasmia-binte-monzoor"><img height="100" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
+
+<a href="http://Tasmia.BinteMonzoor@studentambassadors.com"><img height="100" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg"/></a>
+
+
 </p>
 <br />
 
