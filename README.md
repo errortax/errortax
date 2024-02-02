@@ -25,6 +25,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="js" alt="Js" width="40" height="40"/>&nbsp;
 </div>
 
+## :mailbox: Reach me out
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/tasmia-binte-monzoor"><img height="60" src="./images/icons/Linkedin.png"/></a>
+<a href="tasmiamonzoor@gmail.com"><img height="60" src="./images/icons/Gmail.png"/></a>
+</p>
+<br />
+
 <!--
 **errortax/errortax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
