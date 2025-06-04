@@ -1,7 +1,7 @@
 ### Hi 👋 It's Tasmia 🌸
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=navyblue&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+an+Undergraduate+ICE+Student;FrontEnd+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=navyblue&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+an+Undergraduate+ICE+Student;Data Scientist;Always+learning+new+things"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errortax&label=Profile%20views&color=0e75b6&style=flat" alt="errortax" /> </p>
@@ -9,8 +9,8 @@
 ##  About me
 <img align="right" alt="GIF" height="250px" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 
-- 🔭 I’m currently working on FrontEnd Development
-- 🌱 I’m currently learning TailwindCSS and Javascript
+- 🔭 I’m currently working on ML and Deep Learning
+- 🌱 I’m currently learning AI Agents and working on a real life project
 
 [![tasmia's GitHub stats](https://github-readme-stats.vercel.app/api?username=errortax)](https://github.com/errortax/github-readme-stats)
 <br>
