@@ -1,7 +1,7 @@
 ### Hi 👋 It's Tasmia 🌸
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=navyblue&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+an+Undergraduate+ICE+Student;Data Scientist;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=navyblue&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+an+Undergraduate+ICE+Student;Data+Scientist;Always+learning+new+things"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errortax&label=Profile%20views&color=0e75b6&style=flat" alt="errortax" /> </p>
